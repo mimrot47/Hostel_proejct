@@ -73,7 +73,7 @@
                 
            </td>
 				
-      <td bgcolor="#cc33ff" width = "20%" style="text-align:center;">
+      <td bgcolor="#cc33ff" width = "20%" style="text-align:center;stream-merge:all;">
             <form action="http://www.google.com/" method="post">
                 <input type="text" style="width:160px; height:30px; margin-left:00px;  margin-top:00px;" /><button  style="width:95px; height:30px; margin-top:20px; margin-top:00; " >search</button>             
               </form>
